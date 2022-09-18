@@ -87,6 +87,7 @@ A maternity hospital wants to computerize its operations. When a ==baby== is bor
 | 3. Each part sold by the company is identified by a part number exclusive. Parts also have part name, price and quantity in stock.
 | 4. Each order placed by a customer is received by an employee and have a unique order number. Each order contains quantities specified of one or more parts. Each order has a due date. Receipt, as well as an expected delivery date. the delivery date real is also recorded.
 <br>
+
 ##### 🔷 Create an Entity-Relationship diagram for the database of catalog shopping.
 
 |  BUY_CATALOG Diagram 
@@ -99,7 +100,7 @@ A maternity hospital wants to computerize its operations. When a ==baby== is bor
 [Miro](https://miro.com/pt/) - Documentation is available [here](https://developers.miro.com/).
 <br>
 
-#####💻 Developer by [Fernanda Costa](https://github.com/fernandacostads) and [Ivna Feitosa](https://github.com/IvnaFeitosa).
+##### 💻 Developer by [Fernanda Costa](https://github.com/fernandacostads) and [Ivna Feitosa](https://github.com/IvnaFeitosa).
 
 
-[👉 Click here to access other activities of this project.](https://github.com/fernandacostads/atlantico-academy-bootcamp)
+[👉 Click here to access other activities of this project.](https://github.com/IvnaFeitosa/AtlanticoBootcamp)

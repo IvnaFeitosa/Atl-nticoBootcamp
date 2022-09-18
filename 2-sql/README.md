@@ -29,4 +29,4 @@ The second issue consisted of creating a database called the University. Then th
 💻 Developer by [Fernanda Costa](https://github.com/fernandacostads) and [Ivna Feitosa](https://github.com/IvnaFeitosa).
 
 
-[👉 Click here to access other activities of this project.](https://github.com/fernandacostads/atlantico-academy-bootcamp)
+[👉 Click here to access other activities of this project.](https://github.com/IvnaFeitosa/AtlanticoBootcamp)
